@@ -1,4 +1,4 @@
-### Hi!! Welcome I'm Patrick 😃
+### Olá!! Eu sou o Patrick, bem vindo 😃!!
 
 - 🔭 Hoje trabalho com back-end/front-end
 - 🤓 Estudando Java - React - Typescript - Design Patterns
