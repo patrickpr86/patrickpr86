@@ -25,8 +25,7 @@
   <img align="center" alt="Pat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Pat-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="Pat-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img align="right" alt="Pat-Sharingan" src="https://media.tenor.com/images/24bd8be5f6d9ef27e5256e1f3c1194c9/tenor.gif">
+    <img align="center" alt="Pat-Kubernetes" height="30" width="40"
 </div>
   
   ##
