@@ -43,4 +43,4 @@ Postgraduate degree — Java Applied Engineering, Anhanguera (BR).
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/paparib/)
+[LinkedIn](https://www.linkedin.com/in/paparib/) · sh4dbr@gmail.com
