@@ -1,42 +1,45 @@
-### Olá!! Eu sou o Patrick, bem vindo 😃!!
+# Patrick Ribeiro
 
-- 🔭 Hoje trabalho com back-end/front-end
-- 🤓 Estudando Java - React - Typescript - Design Patterns
-- 👯 Posso colaborar com stack Java - Node.js - React
-- 💬 Pergunte-me sobre o que quiser(se eu não souber, vamos descobrir juntos 😉)
-- 🎮 Fato engraçado:: Fanboy da Riot games 🕶️
+**Senior Software Engineer** · 12+ years owning systems end to end — from the first product conversation to the 3am production incident.
 
-<div>
-  <a href="https://github.com/patrickpr86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickpr86&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickpr86&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Pat-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
-    <img align="center" alt="Pat-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original-wordmark.svg">
-     <img align="center" alt="Pat-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original-wordmark.svg">
-    <img align="center" alt="Pat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
-   
-     
-     
-  <img align="center" alt="Pat-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pat-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Pat-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original-wordmark.svg">
-    <img align="center" alt="Pat-Kubernetes" height="30" width="40"
-</div>
-  
-  ##
- 
-<div>   
-  <a href="https://www.instagram.com/patrickpr86/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/skenderbr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:sh4dbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patrick-ribeiro86/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/patrickpr86/patrickpr86/blob/output/github-contribution-grid-snake.svg)
-  
-</div>  
+I build the transaction backbone of banks and global consumer brands — **PagBank**, **BTG Pactual**, **AB InBev**.
 
+Based in Brazil · Working remotely with distributed teams · Full overlap with US business hours
+
+---
+
+### How I work — end to end
+
+I don't get handed a ticket. I sit in discovery with stakeholders, shape the requirements, design the architecture, write the code, ship it and own it in production. That spans backend, data and AI, and I go into the frontend when the feature needs it.
+
+### What I work on
+
+- **Financial-grade backends** — risk platforms, payment flows, and the migration of legacy banking cores to cloud-native architectures on AWS and Kubernetes.
+- **Distributed systems at high throughput** — event-driven architectures on Kafka, resilience patterns (retry, circuit breaker, fallback), and production incident resolution.
+- **AI engineering** — RAG end to end (chunking, embeddings, vector stores, retrieval and re-ranking, evaluation and guardrails), LLM orchestration, tool-calling agents and AWS Bedrock integrations.
+- **Data pipelines** — Apache Spark for distributed batch and ML workloads.
+
+### Core stack
+
+`Java` `Kotlin` `Spring Boot` `Quarkus` `Kafka` `AWS` `Kubernetes` `Docker`
+`PostgreSQL` `MongoDB` `DynamoDB` `Cassandra` `Redis` `[vector DB]`
+`Clean Architecture` `DDD` `Event-Driven Design` `Apache Spark` `AWS Bedrock`
+
+Also ship in: `Go` `Python` `Node.js` `TypeScript` `React` `Angular`
+
+### Selected work
+
+- **PagBank** — co-designed a large-scale risk platform with distributed decision engines backed by AI models. Handles `[X]` events/day at `[Y]`ms p99.
+- **Legacy banking modernization** — led the migration from `[core legado]` to cloud-native services, reducing `[deploy time / incidents / custo]` by `[Z]%`.
+- **AB InBev** — global distributed systems and high-scale e-commerce across `[N]` markets.
+- **Distributed processing** — Spark pipelines processing `[volume]` per run.
+
+### Education
+
+Postgraduate degree in `[área]` — `[instituição]`.
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/paparib/) · `[email profissional novo]`
