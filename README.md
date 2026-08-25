@@ -22,24 +22,24 @@ I don't get handed a ticket. I sit in discovery with stakeholders, shape the req
 ### Core stack
 
 `Java` `Kotlin` `Spring Boot` `Quarkus` `Kafka` `AWS` `Kubernetes` `Docker`
-`PostgreSQL` `MongoDB` `DynamoDB` `Cassandra` `Redis` `[vector DB]`
+`PostgreSQL` `MongoDB` `DynamoDB` `Cassandra` `Redis`
 `Clean Architecture` `DDD` `Event-Driven Design` `Apache Spark` `AWS Bedrock`
 
 Also ship in: `Go` `Python` `Node.js` `TypeScript` `React` `Angular`
 
 ### Selected work
 
-- **PagBank** — co-designed a large-scale risk platform with distributed decision engines backed by AI models. Handles `[X]` events/day at `[Y]`ms p99.
-- **Legacy banking modernization** — led the migration from `[core legado]` to cloud-native services, reducing `[deploy time / incidents / custo]` by `[Z]%`.
-- **AB InBev** — global distributed systems and high-scale e-commerce across `[N]` markets.
-- **Distributed processing** — Spark pipelines processing `[volume]` per run.
+- **PagBank** — co-designed a large-scale risk platform with distributed decision engines backed by AI models, handling millions of transactions a day.
+- **Legacy banking modernization** — led the migration of legacy banking cores to cloud-native services on AWS and Kubernetes.
+- **AB InBev** — global distributed systems and high-scale e-commerce platforms.
+- **Distributed processing** — Apache Spark pipelines for batch and machine learning workloads.
 
 ### Education
 
-Postgraduate degree in `[área]` — `[instituição]`.
+Postgraduate degree — Java Applied Engineering, Anhanguera (BR).
 
 ---
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/paparib/) · `[email profissional novo]`
+[LinkedIn](https://www.linkedin.com/in/paparib/)
