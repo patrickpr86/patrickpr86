@@ -22,16 +22,16 @@ I don't get handed a ticket. I sit in discovery with stakeholders, shape the req
 ### Core stack
 
 `Java` `Kotlin` `Spring Boot` `Quarkus` `Kafka` `AWS` `Kubernetes` `Docker`
-`PostgreSQL` `MongoDB` `DynamoDB` `Cassandra` `Redis`
+`PostgreSQL` `MongoDB` `DynamoDB` `Cassandra` `Redis` `OpenSearch` `Pinecone` `pgvector`
 `Clean Architecture` `DDD` `Event-Driven Design` `Apache Spark` `AWS Bedrock`
 
 Also ship in: `Go` `Python` `Node.js` `TypeScript` `React` `Angular`
 
 ### Selected work
 
-- **PagBank** — co-designed a large-scale risk platform with distributed decision engines backed by AI models, handling millions of transactions a day.
+- **PagBank** — helped build the event-driven anti-fraud risk decision engine that sits in the critical path of the transaction flow, on a payments platform processing R$530.5 billion in TPV across 6.3 million active merchants (FY2025).
 - **Legacy banking modernization** — led the migration of legacy banking cores to cloud-native services on AWS and Kubernetes.
-- **AB InBev** — global distributed systems and high-scale e-commerce platforms.
+- **AB InBev** — built the customer-care integrations (Zendesk) behind post-sale support for BEES, AB InBev's B2B commerce platform: 52.5 billion USD in GMV, live in 29 markets, 6M+ retail customers (FY2025).
 - **Distributed processing** — Apache Spark pipelines for batch and machine learning workloads.
 
 ### Education
