@@ -1,6 +1,6 @@
 # Patrick Ribeiro
 
-**Senior Software Engineer** · 12+ years owning systems end to end — from the first product conversation to the 3am production incident.
+**Senior Software Engineer** · 12+ years leading systems end to end — from initial product definition to critical incident resolution in production.
 
 I build the transaction backbone of banks and global consumer brands — **PagBank**, **BTG Pactual**, **AB InBev**.
 
