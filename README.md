@@ -30,6 +30,7 @@ Also ship in: `Go` `Python` `Node.js` `TypeScript` `React` `Angular`
 ### Selected work
 
 - **PagBank** — helped build the event-driven anti-fraud risk decision engine that sits in the critical path of the transaction flow, on a payments platform processing R$530.5 billion in TPV across 6.3 million active merchants (FY2025).
+- **BTG Pactual** — implemented credit analysis algorithms in the credit decisioning engine and worked in the merchant acquiring domain, with decision flows driven by workflow orchestration, at Latin America's largest investment bank, which closed FY2025 with a R$262.3 billion credit portfolio and R$2.5 trillion in AuM/WuM.
 - **Legacy banking modernization** — led the migration of legacy banking cores to cloud-native services on AWS and Kubernetes.
 - **AB InBev** — built the customer-care integrations (Zendesk) behind post-sale support for BEES, AB InBev's B2B commerce platform: 52.5 billion USD in GMV, live in 29 markets, 6M+ retail customers (FY2025).
 - **Distributed processing** — Apache Spark pipelines for batch and machine learning workloads.
